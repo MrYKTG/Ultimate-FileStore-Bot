@@ -62,10 +62,6 @@
 
 ʙᴇꜱᴛ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ, ꜱᴇʀɪᴇꜱ, ᴀɴɪᴍᴇ , ᴀɴᴅ ᴏᴛʜᴇʀ ᴊᴏʙꜱ
 
-ᴅᴍ ᴛᴏ ʙᴜʏ ɴᴏᴡ 
-ᴅᴇᴍᴏ ʙᴏᴛ :  TEST BOT
-ᴜꜱᴇʀɴᴀᴍᴇ: @mr
-
 ## License
 
 This project is not free for commercial use.
